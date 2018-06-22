@@ -4,7 +4,7 @@ names(auto)
 View(auto)
 
 # Looks like there are missing values in the horsepower column so lets
-# remove those
+# delete those
 
 auto <- auto[auto$horsepower != "?", ]
 
