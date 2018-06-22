@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529701787498.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D0B793A8",
+    "lastKnownWriteTime" : 1529701800,
+    "last_content_update" : 1529701800078,
+    "path" : "~/Projects/Data/Machine Learning/An Introduction To Statistical Learning/Lab/Chapter2_Boston.R",
+    "project_path" : "Chapter2_Boston.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
